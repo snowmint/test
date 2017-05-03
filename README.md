@@ -1,4 +1,4 @@
-#workshop
+#workshop new
 I'm head
     * I'm second
 printf("Hello World");
